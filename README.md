@@ -1,6 +1,6 @@
 # BizCardX: Extracting Business Card Data with OCR
 
-![BizCardX Logo](https://example.com/bizcardx-logo.png)
+![BizCardX Logo]([https://example.com/bizcardx-logo.png](https://www.google.com/search?sca_esv=566478814&rlz=1C1RXQR_enIN1058IN1058&sxsrf=AM9HkKlDb5MuBWBHH0eeBEKA8k13_s5dPw:1695106519220&q=bizcard+extracting+business+card+data+with+ocr&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiOvrzvi7aBAxU8XWwGHd1MBp4Q0pQJegQICxAB&biw=1366&bih=619&dpr=1#imgrc=FcTwC2QlytlKMM))
 
 BizCardX is a Python-based project that allows you to extract valuable information from business cards using Optical Character Recognition (OCR) technology. With BizCardX, you can quickly and accurately digitize business card data, making it easier to manage and organize your contacts.
 
